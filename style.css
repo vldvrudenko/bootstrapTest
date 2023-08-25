@@ -1,0 +1,15 @@
+body {
+  min-width: 375px;
+}
+
+.container-bg {
+  background: rgb(227, 235, 241);
+}
+
+button {
+  background: rgb(23, 165, 80);
+}
+
+.vector-bg {
+  background-image: url(./img/backgroundImage.svg);
+}/*# sourceMappingURL=style.css.map */
